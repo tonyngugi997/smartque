@@ -698,8 +698,7 @@ class _ConfirmationScreenState extends State<ConfirmationScreen> {
                       );
                     }
 
-                    // Payment is performed after admin approval. Do not initiate STK here.
-
+// to addd daraja here
                     // Proceed to book appointment
                     final success = await appointmentProvider.bookAppointment(
                       doctorName: widget.doctorName,
