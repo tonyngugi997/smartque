@@ -1,0 +1,79 @@
+
+ 
+ 
+Project Proposal 
+Prepared by: Brenda Kangacha 
+Program: Diploma in Information technology 
+Institution: Murang’a University of Technology 
+Year: 2026 
+ 
+Title of the Project 
+To Design and implement a Mobile-Based Appointment & Queue Management System 
+Application Name:  SmartQueue 
+Introduction/Purpose 
+Designed to help users book appointments and manage queues remotely for service based 
+organization. (Hospitals, government offices, University offices etc) 
+Eliminates long waiting times by allowing users to reserve a spot in queue, receive real-time 
+updates, get notifications when turn is approaching. 
+Problem Statement 
+Many service centers operate on a first-come-first-served basis, leading to: 
+1. Long waiting lines 
+2. Time wastage 
+3. Overcrowding 
+4. Poor customer experience 
+There is a need for a digital queue management solution that allows users to plan their time 
+efficiently. 
+Objectives 
+1. To design a mobile application that enables users to book queue slots remotely. 
+ 
+2. To reduce physical congestion in service centers. 
+3. To notify users in real time about their queue status. 
+4. To improve efficiency for service providers. 
+5. To create a secure and user-friendly mobile system. 
+ 
+Scope of the Project  
+The system will focus on: 
+1. Mobile platform (Android first) 
+2. Single or multiple service centers 
+3. Basic analytics and reports 
+System Requirements 
+Functional Requirements 
+1. User authentication (email/phone) 
+2. Appointment booking system 
+3. Queue number assignment 
+4. Mpesa Integration 
+5. Notification system 
+6. Database storage for users and bookings 
+Non-Functional Requirements 
+1. High performance and fast response time 
+2. Secure data handling 
+3. User-friendly interface 
+4. Scalability for multiple service centers 
+5. Offline error handling 
+Tools & Technologies 
+1. Frontend: Flutter / React Native / Android Studio (Java or Kotlin) 
+2. Backend: Firebase / Node.js / PHP 
+3. Database: Firebase Firestore / MySQL 
+4. Notifications: Firebase Cloud Messaging (FCM) 
+ 
+System Architecture (Explanation) 
+User Side 
+ 
+1. User registration and login 
+2. Select service center 
+3. Book an appointment or queue slot 
+4. Mpesa Integration 
+5. View queue position in real time 
+6. Push notifications & reminders 
+7. Cancel or reschedule appointments 
+Admin Side 
+1. Admin login 
+2. Manage services and service counters 
+3. Approve or reject bookings 
+4. Update queue progress 
+5. View daily reports and statistics 
+ Conclusion 
+SmartQueue provides a modern solution to queue and appointment management, improving 
+efficiency for both service providers and customers while embracing mobile technology. 
+ 
+ 

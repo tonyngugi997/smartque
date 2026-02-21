@@ -1,0 +1,35 @@
+# Flutter/Dart
+.dart_tool/
+.build/
+*.iml
+.android/
+.ios/
+.cxx/
+.flutter-plugins
+.flutter-plugins-dependencies
+.gradle/
+.idea/
+build/
+.DS_Store
+.metadata
+devtools_options.yaml
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/.env.*.local
+backend/database.sqlite
+backend/ngrok
+backend/nixpacks.toml
+backend/railway.json
+backend/.nvmrc
+
+# General
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.swp
+*.swo
+*~
