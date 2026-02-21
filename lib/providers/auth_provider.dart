@@ -203,7 +203,7 @@ class AuthProvider with ChangeNotifier {
     await _clearStoredAuth();
   }
 
-  /// Update the current user data locally and persist to SharedPreferences.
+  
   Future<void> updateProfile(Map<String, dynamic> updated) async {
     try {
       _currentUser = {...?_currentUser, ...updated};
